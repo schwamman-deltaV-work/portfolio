@@ -58,7 +58,7 @@ Number and name of feature: Feature #2: Modify the contents
 Estimate of time needed to complete: 2 hours
 
 Start time: 10:15 am
+Lunch: 30 minutes
+Finish time: 1:00 pm
 
-Finish time: 
-
-Actual time needed to complete: 
+Actual time needed to complete: 2:15 hr:min
