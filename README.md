@@ -52,7 +52,6 @@ Finish time: 10:05 am
 Actual time needed to complete: 35 minutes
 
 
-
 Number and name of feature: Feature #2: Modify the contents
 
 Estimate of time needed to complete: 2 hours
@@ -62,3 +61,17 @@ Lunch: 30 minutes
 Finish time: 1:00 pm
 
 Actual time needed to complete: 2:15 hr:min
+
+=========================================================================================
+
+Lab 05a: Extend Your Portfolio
+
+Number and name of feature: Feature #1: Add functionality
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 9:15 AM
+
+Finish time: 11:10 AM
+
+Actual time needed to complete: 1:55 hr:min

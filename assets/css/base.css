@@ -1,4 +1,3 @@
-@import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
 
@@ -27,7 +26,8 @@ footer, header, hgroup, menu, nav, section {
 }
   
 body {
-  line-height: 1;
+	line-height: 1;
+	overflow: hidden;
 }
 
 ol, ul {
@@ -126,6 +126,7 @@ header {
 
 footer {
 	margin: 2em 0 0 0;
+	z-index: 5;
 }
 
 strong, b {
